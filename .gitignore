@@ -107,3 +107,5 @@ ENV/
 .vscode/
 .vs/
 .idea/
+
+.trainer/saved_models/best_accuracy.pth
